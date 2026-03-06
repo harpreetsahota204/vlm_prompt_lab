@@ -1,5 +1,7 @@
 # VLM Prompt Lab
 
+![img](vlm_prompt_lab.gif)
+
 A FiftyOne panel plugin for interactively testing Vision Language Models on images in your dataset. Open it alongside any sample, load a model once, and iterate on system prompts, user prompts, and generation parameters — without touching code between runs.
 
 

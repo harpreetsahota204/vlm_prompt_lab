@@ -1,0 +1,10 @@
+name: "@harpreetsahota/vlm_prompt_lab"
+type: plugin
+author: Harpreet Sahota
+version: "1.0.0"
+description: "Interactive VLM prompt testing panel — load any image-text-to-text model, stream responses, and save outputs to dataset fields"
+fiftyone:
+  version: ">=0.22"
+js_bundle: dist/index.umd.js
+panels:
+  - vlm_prompt_lab
